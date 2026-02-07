@@ -53,7 +53,4 @@ npm run dev
 * Navigate through product showcases and gallery sections
 * Experience smooth animations and transitions
 
----
 
-
-Do you want me to do that?
